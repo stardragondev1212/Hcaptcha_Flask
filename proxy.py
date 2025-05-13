@@ -1,11 +1,5 @@
 proxy = [
-    "usa.rotating.proxyrack.net:10000",
-    "usa.rotating.proxyrack.net:10001",
-    "usa.rotating.proxyrack.net:10002",
-    "usa.rotating.proxyrack.net:10003",
-    "usa.rotating.proxyrack.net:10004",
-    "usa.rotating.proxyrack.net:10005",
-    "usa.rotating.proxyrack.net:10006",
+    
     "usa.rotating.proxyrack.net:10007",
     "usa.rotating.proxyrack.net:10008",
     "usa.rotating.proxyrack.net:10009",
